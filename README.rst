@@ -1,5 +1,5 @@
 =====================
-djangocms-highlightjs
+djangocms-highlightjs fork for work on Django 3.0+ 
 =====================
 
 |Gitter| |PyPiVersion| |PyVersion| |Status| |TestCoverage| |CodeClimate| |License|
@@ -12,7 +12,7 @@ Support Python version:
 
 Supported Django versions:
 
-* Django 1.11, 2.0, 2.1, 2.2
+* Django 1.11, 2.0, 2.1, 2.2 and 3.0+
 
 Supported django CMS versions:
 
