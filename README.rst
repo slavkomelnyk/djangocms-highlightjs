@@ -12,7 +12,7 @@ Support Python version:
 
 Supported Django versions:
 
-* Django 1.11, 2.0, 2.1, 2.2 and 3.0+
+* Django 3.0+
 
 Supported django CMS versions:
 
