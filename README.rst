@@ -1,5 +1,5 @@
 =====================
-djangocms-highlightjs fork for work on Django 3.0+ 
+djangocms-highlightjs for Django 3.0+ 
 =====================
 
 |Gitter| |PyPiVersion| |PyVersion| |Status| |TestCoverage| |CodeClimate| |License|
